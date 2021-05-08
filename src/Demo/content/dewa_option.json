@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Kommentar",
+        "type": "textarea",
+        "optionCategories": [
+            {"categoryId": "{DEMO_CATEGORY_1}","name": "Kommentar:", "priority": 100},
+            {"categoryId": "{DEMO_CATEGORY_2}","name": "Kommentar:", "priority": 100},
+            {"categoryId": "{DEMO_CATEGORY_3}","name": "Kommentar:", "priority": 100},
+            {"categoryId": "{DEMO_CATEGORY_4}","name": "Kommentar:", "priority": 100},
+            {"categoryId": "{DEMO_CATEGORY_5}","name": "Kommentar:", "priority": 100}
+        ]
+    }
+]

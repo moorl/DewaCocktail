@@ -1,0 +1,11 @@
+[
+  {
+    "_skipEnrichData": true,
+    "id": "{THEME_ID}",
+    "configValues": {
+      "sw-color-brand-primary": {
+        "value": "#000000"
+      }
+    }
+  }
+]

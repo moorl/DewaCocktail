@@ -1,0 +1,297 @@
+[
+    {
+        "active": true,
+        "name": "Mojito",
+        "description": "Havana Club 3 Anos, Limetten, frische Minzblätter, Rohrzucker, Soda",
+        "productNumber": "001",
+        "stock": 100,
+        "taxId": "{TAX_ID_REDUCED}",
+        "price": 7.20,
+        "visibilities": [{"salesChannelId": "{SALES_CHANNEL_ID}", "visibility": 30}],
+        "categories": [{"id": "{DEMO_CATEGORY_1}"}]
+    },
+    {
+        "active": true,
+        "name": "Fiasco",
+        "description": "Havana Club 3 Anos, Galliano, Kiwisirup, Blue Curacao, Zitronensaft, Orangensaft",
+        "productNumber": "002",
+        "stock": 100,
+        "taxId": "{TAX_ID_REDUCED}",
+        "price": 7.20,
+        "visibilities": [{"salesChannelId": "{SALES_CHANNEL_ID}", "visibility": 30}],
+        "categories": [{"id": "{DEMO_CATEGORY_1}"}]
+    },
+    {
+        "active": true,
+        "name": "Cubra Libre",
+        "description": "Havana Club 3 Anos, Limette, Cola",
+        "productNumber": "003",
+        "stock": 100,
+        "taxId": "{TAX_ID_REDUCED}",
+        "price": 5.90,
+        "visibilities": [{"salesChannelId": "{SALES_CHANNEL_ID}", "visibility": 30}],
+        "categories": [{"id": "{DEMO_CATEGORY_1}"}]
+    },
+
+
+
+
+    {
+        "active": true,
+        "name": "Jungle Juice",
+        "description": "Gin, Grüne Banane, Aprikot Brandy, Zitronensaft, Orangensaft",
+        "productNumber": "011",
+        "stock": 100,
+        "taxId": "{TAX_ID_REDUCED}",
+        "price": 7.20,
+        "visibilities": [{"salesChannelId": "{SALES_CHANNEL_ID}", "visibility": 30}],
+        "categories": [{"id": "{DEMO_CATEGORY_2}"}]
+    },
+    {
+        "active": true,
+        "name": "Gin Fizz",
+        "description": "Beefeater, Zuckersirup, frischer Zitronensaft, Soda",
+        "productNumber": "012",
+        "stock": 100,
+        "taxId": "{TAX_ID_REDUCED}",
+        "price": 7.40,
+        "visibilities": [{"salesChannelId": "{SALES_CHANNEL_ID}", "visibility": 30}],
+        "categories": [{"id": "{DEMO_CATEGORY_2}"}]
+    },
+    {
+        "active": true,
+        "name": "Gimlet",
+        "description": "Beefeater, Lime Juice",
+        "productNumber": "013",
+        "stock": 100,
+        "taxId": "{TAX_ID_REDUCED}",
+        "price": 6.90,
+        "visibilities": [{"salesChannelId": "{SALES_CHANNEL_ID}", "visibility": 30}],
+        "categories": [{"id": "{DEMO_CATEGORY_2}"}]
+    },
+
+
+
+
+    {
+        "active": true,
+        "name": "Wodka Martini",
+        "description": "Absolut Vodka, Martini dry, Olive",
+        "productNumber": "021",
+        "stock": 100,
+        "taxId": "{TAX_ID_REDUCED}",
+        "price": 6.90,
+        "visibilities": [{"salesChannelId": "{SALES_CHANNEL_ID}", "visibility": 30}],
+        "categories": [{"id": "{DEMO_CATEGORY_3}"}]
+    },
+    {
+        "active": true,
+        "name": "White Russian Classic",
+        "description": "Absolut Vodka Vanilla, Kahlúa, Sahne",
+        "productNumber": "022",
+        "stock": 100,
+        "taxId": "{TAX_ID_REDUCED}",
+        "price": 7.20,
+        "visibilities": [{"salesChannelId": "{SALES_CHANNEL_ID}", "visibility": 30}],
+        "categories": [{"id": "{DEMO_CATEGORY_3}"}]
+    },
+    {
+        "active": true,
+        "name": "Bloody Mary",
+        "description": "Vodka, Tomatensaft, Tabasco, verschiedene Gewürze",
+        "productNumber": "023",
+        "stock": 100,
+        "taxId": "{TAX_ID_REDUCED}",
+        "price": 5.50,
+        "visibilities": [{"salesChannelId": "{SALES_CHANNEL_ID}", "visibility": 30}],
+        "categories": [{"id": "{DEMO_CATEGORY_3}"}]
+    },
+
+
+
+
+
+
+    {
+        "active": true,
+        "name": "Orgasmus",
+        "description": "Bailey's Amaretto, Triple Sec, Wodka, Ananassaft, Sahne",
+        "productNumber": "031",
+        "stock": 100,
+        "taxId": "{TAX_ID_REDUCED}",
+        "price": 7.50,
+        "visibilities": [{"salesChannelId": "{SALES_CHANNEL_ID}", "visibility": 30}],
+        "categories": [{"id": "{DEMO_CATEGORY_4}"}]
+    },
+    {
+        "active": true,
+        "name": "Banshee",
+        "description": "Bailey's, Batida de Coco, Bananennektar, Sahne",
+        "productNumber": "032",
+        "stock": 100,
+        "taxId": "{TAX_ID_REDUCED}",
+        "price": 7.20,
+        "visibilities": [{"salesChannelId": "{SALES_CHANNEL_ID}", "visibility": 30}],
+        "categories": [{"id": "{DEMO_CATEGORY_4}"}]
+    },
+    {
+        "active": true,
+        "name": "Swimmimg Pool",
+        "description": "Rum, Blue Curacao, Kokossirup, Amamassaft, Sahne",
+        "productNumber": "033",
+        "stock": 100,
+        "taxId": "{TAX_ID_REDUCED}",
+        "price": 6.90,
+        "visibilities": [{"salesChannelId": "{SALES_CHANNEL_ID}", "visibility": 30}],
+        "categories": [{"id": "{DEMO_CATEGORY_4}"}]
+    },
+
+
+
+
+
+    {
+        "active": true,
+        "name": "Kokonut Kiss",
+        "description": "Kokossirup, Ananassaft, Orangensaft, Kirschnekter, Sahne",
+        "productNumber": "041",
+        "stock": 100,
+        "taxId": "{TAX_ID_REDUCED}",
+        "price": 5.90,
+        "visibilities": [{"salesChannelId": "{SALES_CHANNEL_ID}", "visibility": 30}],
+        "categories": [{"id": "{DEMO_CATEGORY_5}"}]
+    },
+    {
+        "active": true,
+        "name": "Pussy Food",
+        "description": "Kirschnekter, Grenadine, Sahne",
+        "productNumber": "042",
+        "stock": 100,
+        "taxId": "{TAX_ID_REDUCED}",
+        "price": 4.90,
+        "visibilities": [{"salesChannelId": "{SALES_CHANNEL_ID}", "visibility": 30}],
+        "categories": [{"id": "{DEMO_CATEGORY_5}"}]
+    },
+    {
+        "active": true,
+        "name": "Virgin Colada",
+        "description": "Ananassaft, Kokossirup, Sahne",
+        "productNumber": "043",
+        "stock": 100,
+        "taxId": "{TAX_ID_REDUCED}",
+        "price": 5.50,
+        "visibilities": [{"salesChannelId": "{SALES_CHANNEL_ID}", "visibility": 30}],
+        "categories": [{"id": "{DEMO_CATEGORY_5}"}]
+    },
+
+
+
+
+    {
+        "active": true,
+        "name": "Wodka",
+        "description": "Absolut Vodka - 40% vol. - 0,7l",
+        "productNumber": "101",
+        "stock": 100,
+        "taxId": "{TAX_ID_REDUCED}",
+        "price": 25.50,
+        "visibilities": [{"salesChannelId": "{SALES_CHANNEL_ID}", "visibility": 30}],
+        "categories": [{"id": "{DEMO_CATEGORY_6}"}]
+    },
+    {
+        "active": true,
+        "name": "Gin",
+        "description": "Monkey 47 - 47% vol. - 0,5l",
+        "productNumber": "102",
+        "stock": 100,
+        "taxId": "{TAX_ID_REDUCED}",
+        "price": 34.50,
+        "visibilities": [{"salesChannelId": "{SALES_CHANNEL_ID}", "visibility": 30}],
+        "categories": [{"id": "{DEMO_CATEGORY_6}"}]
+    },
+    {
+        "active": true,
+        "name": "Rum",
+        "description": "Don Papa Rum - 40% vol. - 0,7l",
+        "productNumber": "103",
+        "stock": 100,
+        "taxId": "{TAX_ID_REDUCED}",
+        "price": 19.90,
+        "visibilities": [{"salesChannelId": "{SALES_CHANNEL_ID}", "visibility": 30}],
+        "categories": [{"id": "{DEMO_CATEGORY_6}"}]
+    },
+
+
+
+
+    {
+        "active": true,
+        "name": "Orangensaft",
+        "description": "Flasche - 1l",
+        "productNumber": "121",
+        "stock": 100,
+        "taxId": "{TAX_ID_REDUCED}",
+        "price": 4.90,
+        "visibilities": [{"salesChannelId": "{SALES_CHANNEL_ID}", "visibility": 30}],
+        "categories": [{"id": "{DEMO_CATEGORY_7}"}]
+    },
+    {
+        "active": true,
+        "name": "Coca Cola",
+        "description": "Flasche - 1l",
+        "productNumber": "122",
+        "stock": 100,
+        "taxId": "{TAX_ID_REDUCED}",
+        "price": 4.50,
+        "visibilities": [{"salesChannelId": "{SALES_CHANNEL_ID}", "visibility": 30}],
+        "categories": [{"id": "{DEMO_CATEGORY_7}"}]
+    },
+    {
+        "active": true,
+        "name": "Soda",
+        "description": "Still - Flasche - 1l",
+        "productNumber": "123",
+        "stock": 100,
+        "taxId": "{TAX_ID_REDUCED}",
+        "price": 2.90,
+        "visibilities": [{"salesChannelId": "{SALES_CHANNEL_ID}", "visibility": 30}],
+        "categories": [{"id": "{DEMO_CATEGORY_7}"}]
+    },
+
+
+
+
+    {
+        "active": true,
+        "name": "Zitronen",
+        "description": "Eine frische Zitrone",
+        "productNumber": "141",
+        "stock": 100,
+        "taxId": "{TAX_ID_REDUCED}",
+        "price": 1.90,
+        "visibilities": [{"salesChannelId": "{SALES_CHANNEL_ID}", "visibility": 30}],
+        "categories": [{"id": "{DEMO_CATEGORY_8}"}]
+    },
+    {
+        "active": true,
+        "name": "Sahne",
+        "description": "Becher - 200ml",
+        "productNumber": "142",
+        "stock": 100,
+        "taxId": "{TAX_ID_REDUCED}",
+        "price": 1.90,
+        "visibilities": [{"salesChannelId": "{SALES_CHANNEL_ID}", "visibility": 30}],
+        "categories": [{"id": "{DEMO_CATEGORY_8}"}]
+    },
+    {
+        "active": true,
+        "name": "Strohhalme",
+        "description": "aus festem Papier - 5 Stück",
+        "productNumber": "143",
+        "stock": 100,
+        "taxId": "{TAX_ID_REDUCED}",
+        "price": 2.90,
+        "visibilities": [{"salesChannelId": "{SALES_CHANNEL_ID}", "visibility": 30}],
+        "categories": [{"id": "{DEMO_CATEGORY_8}"}]
+    }
+]
