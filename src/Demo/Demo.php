@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace DewaCocktail\Demo;
+namespace AppflixDewaCocktail\Demo;
 
 use AppflixDewaShop\Core\System\DataExtension;
 use AppflixDewaShop\Core\System\DataInterface;

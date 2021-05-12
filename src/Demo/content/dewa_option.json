@@ -3,11 +3,54 @@
         "name": "Kommentar",
         "type": "textarea",
         "optionCategories": [
-            {"categoryId": "{DEMO_CATEGORY_1}","name": "Kommentar:", "priority": 100},
-            {"categoryId": "{DEMO_CATEGORY_2}","name": "Kommentar:", "priority": 100},
-            {"categoryId": "{DEMO_CATEGORY_3}","name": "Kommentar:", "priority": 100},
-            {"categoryId": "{DEMO_CATEGORY_4}","name": "Kommentar:", "priority": 100},
-            {"categoryId": "{DEMO_CATEGORY_5}","name": "Kommentar:", "priority": 100}
+            {"categoryId": "{DEMO_CATEGORY_1}","name": "Kommentar", "priority": 100},
+            {"categoryId": "{DEMO_CATEGORY_2}","name": "Kommentar", "priority": 100},
+            {"categoryId": "{DEMO_CATEGORY_3}","name": "Kommentar", "priority": 100},
+            {"categoryId": "{DEMO_CATEGORY_4}","name": "Kommentar", "priority": 100},
+            {"categoryId": "{DEMO_CATEGORY_5}","name": "Kommentar", "priority": 100}
         ]
+    },
+    {
+        "name": "Glas oder Papierbecher",
+        "type": "radio",
+        "items": [
+            {
+                "price": 1.0,
+                "priceFactor": 1,
+                "priority": 400,
+                "name": "Glas",
+                "ingredients": [
+                    {
+                        "id": "{DEMO_PRODUCT_100}"
+                    }
+                ]
+            },
+            {"price": 0, "priceFactor": 1, "priority": 500, "name": "Papierbecher"}
+        ],
+        "optionCategories": [
+            {"categoryId": "{DEMO_CATEGORY_1}","name": "Auswahl", "priority": 100},
+            {"categoryId": "{DEMO_CATEGORY_2}","name": "Auswahl", "priority": 100},
+            {"categoryId": "{DEMO_CATEGORY_3}","name": "Auswahl", "priority": 100},
+            {"categoryId": "{DEMO_CATEGORY_4}","name": "Auswahl", "priority": 100},
+            {"categoryId": "{DEMO_CATEGORY_5}","name": "Auswahl", "priority": 100}
+        ]
+
+    },
+    {
+        "name": "Größen",
+        "type": "single",
+        "items": [
+            {"price": 0, "priceFactor": 1, "priority": 500, "name": "200ml"},
+            {"price": 0, "priceFactor": 1.5, "priority": 400, "name": "500ml"}
+        ],
+        "optionCategories": [
+            {"categoryId": "{DEMO_CATEGORY_1}","name": "Größe", "priority": 100},
+            {"categoryId": "{DEMO_CATEGORY_2}","name": "Größe", "priority": 100},
+            {"categoryId": "{DEMO_CATEGORY_3}","name": "Größe", "priority": 100},
+            {"categoryId": "{DEMO_CATEGORY_4}","name": "Größe", "priority": 100},
+            {"categoryId": "{DEMO_CATEGORY_5}","name": "Größe", "priority": 100}
+        ]
+
     }
+
 ]

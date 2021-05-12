@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace DewaCocktail;
+namespace AppflixDewaCocktail;
 
 use Shopware\Core\Framework\Plugin;
 
