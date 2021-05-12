@@ -20,7 +20,7 @@
         }
     },
     "extra": {
-        "shopware-plugin-class": "DewaCocktail\\DewaCocktail",
+        "shopware-plugin-class": "AppflixDewaCocktail\\DewaCocktail",
         "label": {
             "en-GB": "DeliveryWare | Cocktail",
             "de-DE": "DeliveryWare | Cocktail"
