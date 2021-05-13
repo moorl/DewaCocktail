@@ -27,6 +27,12 @@
             "sw-logo-desktop": {
                 "value": "demo-cocktail-logo.png"
             },
+            "sw-logo-tablet": {
+                "value": "demo-cocktail-logo.png"
+            },
+            "sw-logo-mobile": {
+                "value": "demo-cocktail-logo.png"
+            },
             "sw-logo-share": {
                 "value": "demo-cocktail-favicon.png"
             },
