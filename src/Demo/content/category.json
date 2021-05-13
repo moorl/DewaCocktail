@@ -1,66 +1,152 @@
 [
-  {
-    "id": "{DEMO_CATEGORY_0}",
-    "parentId": "{NAVIGATION_CATEGORY_ID}",
-    "cmsPageId": "{CMS_PAGE_ID}",
-    "mediaId": "pexels-photo-1565982",
-    "active": true,
-    "name": "Speisekarte"
-  },
-  {
-    "id": "{DEMO_CATEGORY_1}",
-    "parentId": "{DEMO_CATEGORY_0}",
-    "mediaId": "category\/rum",
-    "active": true,
-    "name": "Cocktail mit Rum"
-  },
-  {
-    "id": "{DEMO_CATEGORY_2}",
-    "parentId": "{DEMO_CATEGORY_0}",
-    "mediaId": "category\/gin",
-    "active": true,
-    "name": "Cocktail mit Gin"
-  },
-  {
-    "id": "{DEMO_CATEGORY_3}",
-    "parentId": "{DEMO_CATEGORY_0}",
-    "mediaId": "category\/vodka",
-    "active": true,
-    "name": "Cocktail mit Wodka"
-  },
-  {
-    "id": "{DEMO_CATEGORY_4}",
-    "parentId": "{DEMO_CATEGORY_0}",
-    "mediaId": "category\/sahne",
-    "active": true,
-    "name": "Cocktail mit Sahne"
-  },
-  {
-    "id": "{DEMO_CATEGORY_5}",
-    "parentId": "{DEMO_CATEGORY_0}",
-    "mediaId": "category\/ohnealkohol",
-    "active": true,
-    "name": "Cocktails ohne Alkohol"
-  },
-  {
-    "id": "{DEMO_CATEGORY_6}",
-    "parentId": "{DEMO_CATEGORY_0}",
-    "mediaId": "category\/flaschen",
-    "active": true,
-    "name": "Hochprozentiges in Flaschen"
-  },
-  {
-    "id": "{DEMO_CATEGORY_7}",
-    "parentId": "{DEMO_CATEGORY_0}",
-    "mediaId": "category\/juice",
-    "active": true,
-    "name": "Alkoholfreie Getränke"
-  },
-  {
-    "id": "{DEMO_CATEGORY_8}",
-    "parentId": "{DEMO_CATEGORY_0}",
-    "mediaId": "category\/lime",
-    "active": true,
-    "name": "Sonstige Zutaten"
-  }
+    {
+        "id": "{NAVIGATION_CATEGORY_ID}",
+        "cmsPageId": "{DEMO_CMS_PAGE_1}"
+    },
+    {
+        "id": "{DEMO_CATEGORY_0}",
+        "parentId": "{NAVIGATION_CATEGORY_ID}",
+        "cmsPageId": "{CMS_PAGE_ID}",
+        "mediaId": "category/dewa-demo-cocktails-category-flaschen",
+        "active": true,
+        "name": "Cocktailkarte"
+    },
+    {
+        "id": "{DEMO_CATEGORY_1}",
+        "parentId": "{DEMO_CATEGORY_0}",
+        "mediaId": "category/dewa-demo-cocktails-category-rum",
+        "active": true,
+        "name": "Cocktail mit Rum"
+    },
+    {
+        "id": "{DEMO_CATEGORY_2}",
+        "parentId": "{DEMO_CATEGORY_0}",
+        "mediaId": "category/dewa-demo-cocktails-category-gin",
+        "active": true,
+        "name": "Cocktail mit Gin"
+    },
+    {
+        "id": "{DEMO_CATEGORY_3}",
+        "parentId": "{DEMO_CATEGORY_0}",
+        "mediaId": "category/dewa-demo-cocktails-category-vodka",
+        "active": true,
+        "name": "Cocktail mit Wodka"
+    },
+    {
+        "id": "{DEMO_CATEGORY_4}",
+        "parentId": "{DEMO_CATEGORY_0}",
+        "mediaId": "category/dewa-demo-cocktails-category-sahne",
+        "active": true,
+        "name": "Cocktail mit Sahne"
+    },
+    {
+        "id": "{DEMO_CATEGORY_5}",
+        "parentId": "{DEMO_CATEGORY_0}",
+        "mediaId": "category/dewa-demo-cocktails-category-ohnealkohol",
+        "active": true,
+        "name": "Cocktails ohne Alkohol"
+    },
+    {
+        "id": "{DEMO_CATEGORY_6}",
+        "parentId": "{DEMO_CATEGORY_0}",
+        "mediaId": "category/dewa-demo-cocktails-category-flaschen",
+        "active": true,
+        "name": "Hochprozentiges in Flaschen"
+    },
+    {
+        "id": "{DEMO_CATEGORY_7}",
+        "parentId": "{DEMO_CATEGORY_0}",
+        "mediaId": "category/dewa-demo-cocktails-category-juice",
+        "active": true,
+        "name": "Alkoholfreie Getränke"
+    },
+    {
+        "id": "{DEMO_CATEGORY_8}",
+        "parentId": "{DEMO_CATEGORY_0}",
+        "mediaId": "category/dewa-demo-cocktails-category-lime",
+        "active": true,
+        "name": "Sonstige Zutaten"
+    },
+
+
+
+
+    {
+        "id": "{DEMO_CATEGORY_15}",
+        "parentId": null,
+        "active": true,
+        "name": "Footernavigation"
+    },
+    {
+        "id": "{DEMO_CATEGORY_16}",
+        "parentId": "{DEMO_CATEGORY_15}",
+        "active": true,
+        "name": "Über Uns"
+    },
+    {
+        "id": "{DEMO_CATEGORY_17}",
+        "parentId": "{DEMO_CATEGORY_16}",
+        "active": true,
+        "name": "Das sind wir"
+    },
+    {
+        "id": "{DEMO_CATEGORY_18}",
+        "parentId": "{DEMO_CATEGORY_16}",
+        "active": true,
+        "name": "Servicebereich"
+    },
+    {
+        "id": "{DEMO_CATEGORY_19}",
+        "parentId": "{DEMO_CATEGORY_16}",
+        "active": true,
+        "name": "Kontakt"
+    },
+    {
+        "id": "{DEMO_CATEGORY_20}",
+        "parentId": "{DEMO_CATEGORY_15}",
+        "active": true,
+        "name": "Rechtliches"
+    },
+    {
+        "id": "{DEMO_CATEGORY_21}",
+        "parentId": "{DEMO_CATEGORY_20}",
+        "active": true,
+        "name": "Impressum"
+    },
+    {
+        "id": "{DEMO_CATEGORY_22}",
+        "parentId": "{DEMO_CATEGORY_20}",
+        "active": true,
+        "name": "AGB"
+    },
+    {
+        "id": "{DEMO_CATEGORY_23}",
+        "parentId": "{DEMO_CATEGORY_20}",
+        "active": true,
+        "name": "Datenschutz"
+    },
+    {
+        "id": "{DEMO_CATEGORY_24}",
+        "parentId": null,
+        "active": true,
+        "name": "Servicenavigation"
+    },
+    {
+        "id": "{DEMO_CATEGORY_25}",
+        "parentId": "{DEMO_CATEGORY_24}",
+        "active": true,
+        "name": "Unsere Events"
+    },
+    {
+        "id": "{DEMO_CATEGORY_26}",
+        "parentId": "{DEMO_CATEGORY_24}",
+        "active": true,
+        "name": "Stellenanzeigen"
+    },
+    {
+        "id": "{DEMO_CATEGORY_27}",
+        "parentId": "{DEMO_CATEGORY_24}",
+        "active": true,
+        "name": "Anfahrt"
+    }
 ]
