@@ -16,11 +16,11 @@
     },
     "autoload": {
         "psr-4": {
-            "AppflixDewaCocktail\\": "src/"
+            "Appflix\\DewaCocktail\\": "src/"
         }
     },
     "extra": {
-        "shopware-plugin-class": "AppflixDewaCocktail\\DewaCocktail",
+        "shopware-plugin-class": "Appflix\\DewaCocktail\\DewaCocktail",
         "label": {
             "en-GB": "DeliveryWare | Demo Cocktail",
             "de-DE": "DeliveryWare | Demo Cocktail"
