@@ -4,6 +4,6 @@ namespace Appflix\DewaCocktail;
 
 use Shopware\Core\Framework\Plugin;
 
-class DewaCocktail extends Plugin
+class AppflixDewaCocktail extends Plugin
 {
 }
