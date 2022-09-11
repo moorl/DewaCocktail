@@ -2,7 +2,7 @@
     "name": "appflix/dewa-cocktail",
     "description": "DeliveryWare | Demo Cocktail",
     "keywords": ["restaurant", "delivery", "theme"],
-    "version": "0.0.2",
+    "version": "1.4.0",
     "type": "shopware-platform-plugin",
     "license": "proprietary",
     "authors": [
